@@ -1,4 +1,18 @@
-## Hi there 👋
+# Vipin Ravindranath
+
+Founder of **Elowit**.
+
+Elowit help AI-driven product teams hire:
+
+- AI/ML Engineers
+- AI Backend Engineers
+- AI Infrastructure & MLOps engineers
+
+🌐 Website  
+https://www.elowit.com
+
+🔗 LinkedIn  
+https://www.linkedin.com/company/elowit-technologies/## Hi there 👋
 
 <!--
 **vipzhrd-bit/vipzhrd-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
