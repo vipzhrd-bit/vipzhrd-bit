@@ -12,7 +12,7 @@ Elowit help AI-driven product teams hire:
 https://www.elowit.com
 
 🔗 LinkedIn  
-https://www.linkedin.com/company/elowit/## Hi there 👋
+https://www.linkedin.com/company/elowit/ ## Hi there 👋
 
 <!--
 **vipzhrd-bit/vipzhrd-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
